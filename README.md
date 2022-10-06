@@ -1,10 +1,9 @@
-## zsoltibaba37
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsoltibaba37&layout=compact&theme=buefy&hide_border=true" /></a>
+Hello! I'm Zsolti
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsoltibaba37)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsoltibaba37)](https://github.com/zsoltibaba37/zsoltibaba37)
 
 ---
 2022-10
