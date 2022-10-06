@@ -1,6 +1,7 @@
 
 Hello! I'm Zsolti
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zsoltibaba37)](https://github.com/zsoltibaba37/zsoltibaba37)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsoltibaba37)](https://github.com/zsoltibaba37/zsoltibaba37)
 
