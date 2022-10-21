@@ -5,6 +5,9 @@ Hello! I'm Zsolti
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsoltibaba37&layout=compact)](https://github.com/zsoltibaba37/zsoltibaba37)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsoltibaba37&show_icons=true&locale=en&layout=compact" alt="zsoltibaba37" /></p>
+
+
 ---
 
 ### My favorite repos
