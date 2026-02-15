@@ -16,10 +16,5 @@ Hello! I'm Zsolti
 
 [Canon control board](https://github.com/zsoltibaba37/Canon_Control_board)
 
-[SambaAuditLogsearch ](https://github.com/zsoltibaba37/SambaAuditLogSearch)
-
-[GetCovid](https://github.com/zsoltibaba37/getCovid)
-
-
 ---
-2022-10
+2026-02
